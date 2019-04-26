@@ -14,7 +14,7 @@ target
 .classpath
 .project
 **/.project
-.settings
+**/.settings
 
 # IDEA
 *.iml
